@@ -54,7 +54,7 @@ body {
 	margin-right: 2%;
 }
 .ui-body-c, .ui-dialog.ui-overlay-c {
-	background: linear-gradient(#062254, #1760a4) repeat scroll 0 0 #F0F0F0;
+	background: #062254;
 	border: 1px solid #B3B3B3;
 	color: #fff;
 	text-shadow: none;

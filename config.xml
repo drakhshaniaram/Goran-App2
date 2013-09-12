@@ -5,7 +5,7 @@
     version   = "1.0.0">
 <icon src="assets/GoranPictures/icon.png" />
 <plugin name="SplashScreen" value="org.apache.cordova.SplashScreen"/>
-<name>لیستی گۆڕان 117</name>
+<name>Goran 117</name>
 <description>
 ناساندنی کاندیدەکانی لیستی گۆڕان
 </description>

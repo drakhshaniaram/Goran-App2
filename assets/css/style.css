@@ -5,6 +5,10 @@ body {
 	text-align: right;
 	font-family: tahoma;
 }
+#header {
+	background: #0a1f4e;
+	text-align:center;
+}
 .jhmare {
 	font-weight: bold;
 	color: #cf6100;
@@ -62,5 +66,6 @@ body {
 	float: right;
 	margin: 10px;
 }
-.Article_Detail_TXT{
-	font-size:large;}
+.Article_Detail_TXT {
+	font-size: large;
+}

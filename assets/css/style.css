@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	direction: rtl;
+	text-align: right;
+	font-family: tahoma;
+}
+.jhmare {
+	font-weight: bold;
+	color: #cf6100;
+	font-size: larger;
+}
+.details_title {
+	color: #04215d;
+	border-bottom: 1px solid #CCC;
+	font-size: 2em;
+	clear: both;
+}
+.details_image {
+	float: right;
+	padding: 14px;
+	border-radius: 5px;
+}
+.details_text {
+	font-family: tahoma;
+	font-size: 1.5em;
+	text-align: right;
+}
+.splash {
+	background: #021744;
+	height: 100%;
+	width: 100%;
+}
+.ui-li-count button {
+	text-align: left;
+}
+.ui-page {
+	-webkit-backface-visibility: hidden;
+	-webkit-transform: rotateY(0deg);
+	-moz-transform: rotateY(0deg);
+	transform: rotateY(0deg);
+}
+.ui-li, .ui-li.ui-field-contain {
+	text-align: right;
+}
+#listOfSlogans li {
+	background: url(../GoranPictures/candle.png) 98% no-repeat;
+}
+#listOfSlogans li h3 {
+	margin-right: 2%;
+}
+.ui-body-c, .ui-dialog.ui-overlay-c {
+	background: linear-gradient(#062254, #1760a4) repeat scroll 0 0 #F0F0F0;
+	border: 1px solid #B3B3B3;
+	color: #fff;
+	text-shadow: none;
+}
+.ui-header .ui-navbar li .ui-btn, .ui-header .ui-navbar .ui-navbar-toggle .ui-btn, .ui-footer .ui-navbar li .ui-btn, .ui-footer .ui-navbar .ui-navbar-toggle .ui-btn {
+	background-color: #f2a815;
+}
+#logoOfGoran {
+	float: right;
+	margin: 10px;
+}
+.Article_Detail_TXT{
+	font-size:large;}

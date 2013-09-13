@@ -69,3 +69,7 @@ body {
 .Article_Detail_TXT {
 	font-size: large;
 }
+.ui-li-heading{
+	white-space:normal;
+	text-overflow:normal;	
+	}

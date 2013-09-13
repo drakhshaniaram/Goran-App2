@@ -7,7 +7,7 @@ body {
 }
 #header {
 	background: #0a1f4e;
-	text-align:center;
+	text-align: center;
 }
 .jhmare {
 	font-weight: bold;
@@ -67,9 +67,30 @@ body {
 	margin: 10px;
 }
 .Article_Detail_TXT {
-	font-size: large;
+	word-spacing:0.25em;
+	line-height:1.6em;
+	text-align:justify;
 }
-.ui-li-heading{
-	white-space:normal;
-	text-overflow:normal;	
-	}
+
+.Article_Detail_TXT h2 {
+	color: #fff;
+}
+.Article_Detail_TXT h2:before {
+	content:" - ";
+}
+.Article_Detail_TXT h3 {
+	color: #fdbd20;
+	display: inline;
+	clear: both;
+}
+.Article_Detail_TXT h4 {
+	color: #ffd264;
+}
+.Article_Detail_TXT em {
+	text-decoration:underline;
+}
+
+.ui-li-heading {
+	white-space: normal;
+	text-overflow: normal;
+}
